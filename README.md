@@ -61,6 +61,25 @@ $ lrelease GPXLab/GPXLab.pro
 $ qmake
 $ make
 ```
+Required packages:
+ <to be completed>
+- make
+- qmake
+
+
+```bash
+# on Debian these packages can be installed with the following commands
+$ sudo apt install make qtchooser
+ ```
+ 
+ 
+Executable file:
+
+   <it should be clarified if the executable file can run alone an be copied elsewhere or need it needs library>
+    
+it is compiled under:
+
+    $ ./GPXLab/GPXLab/gpxlab
 
 Credits
 -------
